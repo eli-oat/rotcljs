@@ -1,0 +1,11 @@
+{
+  "name": "rotcljs",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.25.8"
+  },
+  "dependencies": {
+    "rot-js": "^2.2.0"
+  }
+}
